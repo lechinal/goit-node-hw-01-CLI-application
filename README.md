@@ -1,6 +1,7 @@
 # goit-node-hw-01-CLI-application
 
-Bazele Node.js, CommonJS, ECMAScript, FileSystem
+Command Line Interface application(CLI) - Add, remove, get contact by ID with Commander in Node.js
+
 list:
 ![-a list](https://github.com/lechinal/goit-node-hw-01-CLI-application/assets/122990717/ff213303-9d8a-4a32-862a-046792cf0a0d)
 
