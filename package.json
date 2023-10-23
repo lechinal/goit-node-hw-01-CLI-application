@@ -1,0 +1,21 @@
+{
+  "name": "goit-node-hw-01-cli-application",
+  "version": "1.0.0",
+  "description": "Bazele Node.js, CommonJS, ECMAScript, FileSystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "uuid": "^9.0.1"
+  }
+}
